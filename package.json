@@ -2,7 +2,7 @@
   "name": "medusa-next",
   "version": "1.0.3",
   "private": true,
-  "author": "Kasper Fabricius Kristensen <kasper@medusajs.com> & Victor Gerbrands <victor@medusajs.com> (https://www.medusajs.com)",
+  "author": "Kasper Fabricius Kristensen <kasper@medusajs.com> (https://www.medusajs.com)",
   "description": "Next.js Starter to be used with Medusa server",
   "keywords": [
     "medusa-storefront"
@@ -64,5 +64,7 @@
     "prettier": "^2.8.8",
     "tailwindcss": "^3.0.23",
     "typescript": "^5.3.2"
-  }
+  },
+  "main": ".eslintrc.js",
+  "license": "ISC"
 }
