@@ -1,6 +1,7 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+@import url('./_fonts.css');
 
 @layer utilities {
   /* Chrome, Safari and Opera */
